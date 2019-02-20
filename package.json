@@ -1,0 +1,22 @@
+{
+  "name": "md401-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "function.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuyang/MD401-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuyang/MD401-1/issues"
+  },
+  "homepage": "https://github.com/kuyang/MD401-1#readme",
+  "dependencies": {
+    "jest": "^24.1.0"
+  }
+}
